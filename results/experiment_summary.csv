@@ -1,0 +1,6 @@
+Agent,Avg Reward,Avg SLA Violations,Final Epsilon
+Q-Learning,90.33999999995518,0.0,0.01
+SARSA,64.31999999995791,0.0,0.01
+Threshold,97.9999999999696,0.0,0.0
+Reactive,-1295.2000000000019,0.0,0.0
+Proactive,-528.7000000000126,0.0,0.0

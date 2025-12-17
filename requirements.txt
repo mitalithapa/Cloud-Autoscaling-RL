@@ -1,0 +1,11 @@
+gymnasium
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+notebook
+jupyter
+scipy
+torch
+plotly
